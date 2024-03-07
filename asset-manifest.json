@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.c98df7e1.css",
-    "main.js": "/static/js/main.50177b62.js",
+    "main.js": "/static/js/main.90a10a6f.js",
     "static/media/background.png": "/static/media/background.b53b6d4115bd69d42974.png",
     "static/media/pressRelease.jpeg": "/static/media/pressRelease.9e36f83831926012970b.jpeg",
     "static/media/bio2.png": "/static/media/bio2.62a70ac233d0bb4b415f.png",
@@ -14,10 +14,10 @@
     "static/media/afcs.png": "/static/media/afcs.c293a5dc7d6ad71d1e00.png",
     "index.html": "/index.html",
     "main.c98df7e1.css.map": "/static/css/main.c98df7e1.css.map",
-    "main.50177b62.js.map": "/static/js/main.50177b62.js.map"
+    "main.90a10a6f.js.map": "/static/js/main.90a10a6f.js.map"
   },
   "entrypoints": [
     "static/css/main.c98df7e1.css",
-    "static/js/main.50177b62.js"
+    "static/js/main.90a10a6f.js"
   ]
 }
